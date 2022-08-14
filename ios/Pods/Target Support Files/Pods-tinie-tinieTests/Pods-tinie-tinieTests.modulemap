@@ -1,0 +1,6 @@
+module Pods_tinie_tinieTests {
+  umbrella header "Pods-tinie-tinieTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

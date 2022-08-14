@@ -1,0 +1,6 @@
+module Pods_tinie {
+  umbrella header "Pods-tinie-umbrella.h"
+
+  export *
+  module * { export * }
+}
